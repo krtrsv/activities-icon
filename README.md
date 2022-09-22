@@ -1,7 +1,5 @@
-<div class="center">
-
+<div style="text-align: center;">
 # Activities icon
-
 </div>
 
 Simple gnome extension to put any svg next to 'Activities' button.

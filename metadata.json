@@ -1,0 +1,8 @@
+{
+  "name": "Activities Icon",
+  "description": "Add icon to the activities button",
+  "uuid": "activities-icon@krtrsv",
+  "url": "https://github.com/krtrsv/icon-to-activities",
+  "shell-version": [ "3.38", "40", "41", "42" ],
+  "version": 1
+}
